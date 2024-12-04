@@ -18,3 +18,4 @@ INPUT_SCHEMA = {
         'example': [256]
     }
 }
+OPEN_AI_COMPATIBLE = True
